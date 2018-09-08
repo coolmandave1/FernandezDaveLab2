@@ -1,4 +1,4 @@
-package com.example.davefernandez.fernandezdavelab1;
+package com.example.davefernandez.fernandezdavelab2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
