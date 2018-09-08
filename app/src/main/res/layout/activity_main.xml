@@ -16,8 +16,7 @@
         android:background="@android:color/holo_blue_light"
         android:text="LinearLayout"
         android:textColor="@android:color/background_light"
-        android:textStyle="bold"
-        app:fontFamily="cursive" />
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/imageView8"
