@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="372dp"
         android:layout_weight="1"
-        app:srcCompat="@drawable/papmelroti" />
+        app:srcCompat="@drawable/taggo" />
 
     <TextView
         android:id="@+id/textView4"
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="Papemelroti"
+        android:text="Taggo Bar Morato"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Location: "
+            android:text="Location :  "
             android:textSize="18sp" />
 
         <TextView
@@ -55,7 +55,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Quezon City"
+            android:text="Tomas Morato Ave., Quezon City"
             android:textSize="18sp" />
 
     </LinearLayout>
@@ -79,7 +79,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="3.2 KM"
+            android:text="3.9 KM"
             android:textSize="18sp" />
     </LinearLayout>
 
